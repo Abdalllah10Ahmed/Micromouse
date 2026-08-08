@@ -52,7 +52,7 @@ media/      → Schematic/PCB/3D screenshots and project photos and videos
 
 - 📐 [Bill of Materials](docs/Micromouse_BOM.pdf)
 - 🧮 [Calculations — Trace Width, Power, MCU Justification, Battery Lifetime](docs/Micromouse_Calculations.pdf)
-- 🎞️ [Presentation](docs/Team A .pdf)
+- 🎞️ [Presentation](docs/Team_A.pdf)
 
 ## Design Highlights
 
