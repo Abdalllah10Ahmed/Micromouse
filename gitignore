@@ -1,0 +1,21 @@
+# Altium Designer generated/temporary files
+History/
+Project Outputs for *
+Project Logs for *
+*.PcbDoc~*
+*.SchDoc~*
+*.PrjPcbStructure
+*.OutJob~*
+__Previews/
+*.BAK
+*.~*
+
+# OS junk files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Do not commit large media directly — host externally and link instead
+media/video/*.mp4
+media/video/*.mov
+media/video/*.avi
