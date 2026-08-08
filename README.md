@@ -20,7 +20,7 @@ patched on afterward.
 
 ## Full Schematic
 
-![Full schematic overview](media/images/Full_Schematic.png)
+![Full schematic overview](media/Images/Full_Schematic.png)
 
 Ten functional blocks: Power Input, Safety (protection), 5V regulation, ESP32-C3 MCU, DRV8833
 driver and motors, three ToF sensor headers, MPU6050, OLED display, motor-noise cancellation,
@@ -42,7 +42,7 @@ and the two-floor interconnect.
 
 | Top Floor (Sensors) | Bottom Floor (Power, MCU, Motor Driver) |
 |---|---|
-| ![Top floor PCB layout](media/images/Top_Floor_2d.png) | ![Bottom floor PCB layout](media/images/Bottom_Floor_2d.png) |
+| ![Top floor PCB layout](media/Images/Top_Floor_2d.png) | ![Bottom floor PCB layout](media/Images/Bottom_Floor_2d.png) |
 
 The bottom floor's motor mounting uses **edge notches cut directly into the board outline**,
 letting each motor's gearbox body share vertical space with the PCB itself rather than hanging
@@ -50,13 +50,13 @@ entirely below it — reducing total stack height versus a conventional undernea
 
 ## 3D Render — Top Floor
 
-![Top floor 3D render](media/images/Top_Floor_3d.png)
+![Top floor 3D render](media/Images/Top_Floor_3d.png)
 
 ## Schematic Detail
 
 | MCU & Pin Assignment | Motor Driver & Noise Suppression |
 |---|---|
-| ![MCU schematic](media/images/mcu-schematic-detail.png) | ![Driver and motors schematic](media/images/driver-motors-schematic-detail.png) |
+| ![MCU schematic](media/Images/mcu-schematic-detail.png) | ![Driver and motors schematic](media/Images/driver-motors-schematic-detail.png) |
 
 ## Architecture
 
