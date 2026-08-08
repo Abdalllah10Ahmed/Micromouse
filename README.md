@@ -51,6 +51,8 @@ entirely below it — reducing total stack height versus a conventional undernea
 ## 3D Render — Top Floor
 
 ![Top floor 3D render](media/Images/Top_Floor_3d.png)
+![Bottom floor 3D render](media/Images/Bottom_Floor_3d.png)
+![Micromouse 3D render](media/Images/Side_View.png)
 
 ## Schematic Detail
 
