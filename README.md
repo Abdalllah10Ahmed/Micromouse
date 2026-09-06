@@ -2,7 +2,8 @@
 
 **🥈 2nd Place — IEEE ZSB RAS Chapter, PCB Design Track Final Project**
 
-An autonomous maze-solving micromouse robot, designed end-to-end in Altium — from schematic
+
+This project is a designed end-to-end in Altium — from schematic
 and PCB layout through calculations and full engineering documentation — as the capstone
 project for the IEEE Zagazig Student Branch, Robotics & Automation Society chapter's PCB
 Design track.
@@ -50,26 +51,27 @@ The bottom floor's motor mounting uses **edge notches cut directly into the boar
 letting each motor's gearbox body share vertical space with the PCB itself rather than hanging
 entirely below it — reducing total stack height versus a conventional underneath-mounted motor.
 
-## 3D Render — Top Floor
+## 3D Renders
 
 <p align="center">
-  <img src="media/Images/Top_Floor_3d.png" alt="Full schematic" width="900">
+  <img src="media/Images/Top_Floor_3d.png" alt="Top-floor PCB 3D render" width="900">
   <br>
   <em>Top floor 3D render</em>
 </p>
 
 <p align="center">
-  <img src="media/Images/Bottom_Floor_3d.png" alt="Full schematic" width="900">
+  <img src="media/Images/Bottom_Floor_3d.png" alt="Bottom-floor PCB 3D render" width="900">
   <br>
   <em>Bottom floor 3D render</em>
 </p>
 
 <p align="center">
-  <img src="media/Images/Side_View.png" alt="Full schematic" width="900">
+  <img src="media/Images/Side_View.png" alt="Micromouse design side view" width="900">
   <br>
   <em>Micromouse 3D render</em>
 </p>
-## Schematic Detail
+
+## Schematic Details
 
 | MCU & Pin Assignment | Motor Driver & Noise Suppression |
 |---|---|
