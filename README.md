@@ -1,4 +1,4 @@
-# Micromouse — Autonomous Maze-Solving Robot
+# Micromouse Robot — PCB Design Project
 
 **🥈 2nd Place — IEEE ZSB RAS Chapter, PCB Design Track Final Project**
 
@@ -17,6 +17,8 @@ floors**, connected by a single 6-pin interconnect, to fit that size constraint 
 physically separating noise-sensitive sensor circuitry from higher-current motor/power
 circuitry — a deliberate noise-mitigation strategy baked into the architecture itself, not
 patched on afterward.
+
+> **Project scope:** This is a software-only PCB design project. It includes the schematics, component selection, PCB layout, routing, 3D modeling, and design verification. The board was not fabricated or assembled, and firmware development and physical maze testing were outside the scope of this PCB Design track.
 
 ## Full Schematic
 
@@ -50,10 +52,23 @@ entirely below it — reducing total stack height versus a conventional undernea
 
 ## 3D Render — Top Floor
 
-![Top floor 3D render](media/Images/Top_Floor_3d.png)
-![Bottom floor 3D render](media/Images/Bottom_Floor_3d.png)
-![Micromouse 3D render](media/Images/Side_View.png)
+<p align="center">
+  <img src="media/Images/Top_Floor_3d.png" alt="Full schematic" width="900">
+  <br>
+  <em>Top floor 3D render</em>
+</p>
 
+<p align="center">
+  <img src="media/Images/Bottom_Floor_3d.png" alt="Full schematic" width="900">
+  <br>
+  <em>Bottom floor 3D render</em>
+</p>
+
+<p align="center">
+  <img src="media/Images/Side_View.png" alt="Full schematic" width="900">
+  <br>
+  <em>Micromouse 3D render</em>
+</p>
 ## Schematic Detail
 
 | MCU & Pin Assignment | Motor Driver & Noise Suppression |
@@ -115,11 +130,12 @@ media/      → Schematic/PCB/3D screenshots and project photos
 - ✅ Every trace width calculated against the IPC-2221 standard with 2×–30× safety margin over
   the calculated minimum
 
-## Team
+## Contributors
 
-- Abdallah Ahmed
-- Mohamed Hany
-- Malak Mahdi
+| Member | Contribution |
+|---|---|
+| **Abdallah Ahmed** | Designed the top-floor sensor PCB and its routing; developed the complete schematic; reviewed and verified the design for correctness and cleanliness. |
+| [Mohamed Hany](https://github.com/mohamed-hany123) | Designed the bottom-floor PCB, including the power, MCU, and motor-driver areas, and completed its routing. |
 
 ## Acknowledgments
 
