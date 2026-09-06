@@ -3,10 +3,7 @@
 **🥈 2nd Place — IEEE ZSB RAS Chapter, PCB Design Track Final Project**
 
 
-This project is a designed end-to-end in Altium — from schematic
-and PCB layout through calculations and full engineering documentation — as the capstone
-project for the IEEE Zagazig Student Branch, Robotics & Automation Society chapter's PCB
-Design track.
+This project is a complete hardware and PCB design for a planned autonomous micromouse robot, developed end-to-end in Altium—from schematic and PCB layout through calculations and full engineering documentation—as the capstone project for the IEEE Zagazig Student Branch, Robotics & Automation Society chapter's PCB Design track.
 
 ---
 
