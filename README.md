@@ -143,3 +143,9 @@ media/      → Schematic/PCB/3D screenshots and project photos
 
 Thank you to the IEEE ZSB RAS chapter leadership for the guidance and structure throughout this
 track, and to everyone who made this competition possible.
+
+## Usage and Permissions
+
+Copyright © 2026 Abdallah Ahmed and Mohamed Hany. All rights reserved.
+
+This repository is shared for portfolio and reference purposes only. No permission is granted to copy, modify, redistribute, fabricate, or commercially use any part of this project without prior written permission from the authors.
